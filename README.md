@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jynti/demo_spree)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jynti/demo_spree/tree/spree_variant_options)
